@@ -26,19 +26,32 @@ chrome_driver = "C:\Program Files (x86)\Google\Chrome\Application\chromedriver.e
 driver = webdriver.Chrome(chrome_driver, chrome_options=chrome_options)
 driver.maximize_window()
 print(driver.title)
-comments_btn = driver.find_element_by_xpath('//*[@id="J_TabBar"]/li[2]/a')
-comments_btn.click()
+# comments_btn = driver.find_element_by_xpath('//*[@id="J_TabBar"]/li[2]/a')
+# comments_btn.click()
 # comments_list = driver.find_elements_by_xpath('//*[@id="J_Reviews"]/div/div[6]/table/tr')
-comments_list = driver.find_elements_by_xpath('//*[@id="J_Reviews"]/div/div[6]/table/tbody/tr')
-pages = driver.find_element_by_xpath('//div[@class="rate-paginator"]/a[@data-page="2"]')
-print(len(comments_list))
-for i in comments_list:
-    content = i.find_element_by_xpath('.//div[@class="tm-rate-fulltxt"]')
-    time = i.find_element_by_xpath('.//div[@class="tm-rate-date"]')
-    category = i.find_element_by_xpath('.//div[@class="rate-sku"]')
-    print(content.get_attribute('textContent'))
-    print(time.get_attribute('textContent'))
-    print(category.get_attribute('textContent'))
+
+for j in range(87):
+    WebDriverWait(driver, 5, 0.5).until(EC.presence_of_element_located((By.ID, "J_Reviews")))
+    comments_list = driver.find_elements_by_xpath('//*[@id="J_Reviews"]/div/div[6]/table/tbody/tr')
+    print(len(comments_list))
+    # driver.implicitly_wait(2)
+    time.sleep(2)
+    for i in comments_list:
+        content = i.find_element_by_xpath('.//div[@class="tm-rate-fulltxt"]')
+        time = i.find_element_by_xpath('.//div[@class="tm-rate-date"]')
+        category = i.find_element_by_xpath('.//div[@class="rate-sku"]')
+        print(time.get_attribute('textContent'), category.get_attribute('textContent'),
+              content.get_attribute('textContent'))
+        print(content.get_attribute('textContent'))
+        print('===' * 30)
+    # else:
+    WebDriverWait(driver, 5, 0.5).until(EC.presence_of_element_located((By.CLASS_NAME, 'rate-paginator')))
+    pages = driver.find_elements_by_xpath('//div[@class="rate-paginator"]/*')
+    print(pages[-1].get_attribute('textContent'))
+    pages[-1].click()
+
+
+
 
 # next_page = pages[-1]
 # print(next_page.get_attribute('textContent'))

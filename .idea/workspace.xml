@@ -2,580 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a76e867-1122-4ed1-85a5-02afdb2aa90f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/lgd_spiders.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/IPAddressPool/IPAddressPool/.idea/IPAddressPool.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/IPAddressPool/IPAddressPool/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/IPAddressPool/IPAddressPool/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/IPAddressPool/IPAddressPool/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/IPAddressPool/IPAddressPool/IpAddressPoolMain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/IPAddressPool/IPAddressPool/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/IPAddressPool/IPAddressPool/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/IPAddressPool/IPAddressPool/config/SourceUrl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/IPAddressPool/IPAddressPool/config/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/IPAddressPool/IPAddressPool/db/DBInterface.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/IPAddressPool/IPAddressPool/db/MongoDb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/IPAddressPool/IPAddressPool/db/RedisDb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/IPAddressPool/IPAddressPool/db/RedisUtils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/IPAddressPool/IPAddressPool/db/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/IPAddressPool/IPAddressPool/ip/Ip2Db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/IPAddressPool/IPAddressPool/ip/IpAcquire.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/IPAddressPool/IPAddressPool/ip/IpVerify.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/IPAddressPool/IPAddressPool/ip/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/IPAddressPool/IPAddressPool/my_pool/Pool_ip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/IPAddressPool/IPAddressPool/my_pool/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/IPAddressPool/IPAddressPool/service/IpService.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/IPAddressPool/IPAddressPool/service/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/IPAddressPool/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/EDA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/Sentiment analysis.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpider/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpider/.idea/WeiboSpider-search.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpider/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpider/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpider/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpider/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpider/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpider/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpider/Images/comments.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpider/Images/multi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpider/Images/tweets.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpider/data_stracture.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpider/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpider/scrapy.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpider/sina/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpider/sina/account_build/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpider/sina/account_build/account.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpider/sina/account_build/account_sample.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpider/sina/account_build/login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpider/sina/account_build/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpider/sina/items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpider/sina/middlewares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpider/sina/pipelines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpider/sina/redis_init.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpider/sina/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpider/sina/spiders/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpider/sina/spiders/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpider/sina/spiders/weibo_spider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpiderSimple/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpiderSimple/.idea/WeiboSpider-simple.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpiderSimple/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpiderSimple/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpiderSimple/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpiderSimple/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpiderSimple/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpiderSimple/data_stracture.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpiderSimple/images/account.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpiderSimple/images/account_build_screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpiderSimple/images/comment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpiderSimple/images/cookie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpiderSimple/images/information.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpiderSimple/images/relationship.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpiderSimple/images/spider.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpiderSimple/images/tweet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpiderSimple/images/xiaohao.shop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpiderSimple/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpiderSimple/scrapy.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpiderSimple/sina/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpiderSimple/sina/items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpiderSimple/sina/pipelines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpiderSimple/sina/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpiderSimple/sina/spiders/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpiderSimple/sina/spiders/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/WeiboSpiderSimple/sina/spiders/weibo_spider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/data/weibo_fans_nickname.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/data/weibo_fans_nickname.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/data/weibo_fans_nickname2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/data/weibo_fans_nickname3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/data/weibo_fans_nickname4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/data/weibo_fans_nickname_100000.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/data/weibo_fans_nickname_100001.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/data/weibo_fans_nickname_100002.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/data/weibo_fans_nickname_100003.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/data/weibo_fans_nickname_100004.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/data/weibo_fans_nickname_100005.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/data/weibo_fans_nickname_100006.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/data/weibo_fans_nickname_100007.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/data/weibo_fans_nickname_100008.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/data/weibo_fans_nickname_136.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/data/weibo_fans_nickname_185.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/data/weibo_fans_nickname_刘人语3068.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/demo/CookiePool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/demo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/demo/lianjie_redis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/demo/selenium_ip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/demo/user_agent_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/demo/删除指定字符串.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/demo/去除字符串的括号.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/demo/日职联球员.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/demo/过滤字符串.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/DOCUMENT.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/common/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/common/column.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/common/db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/common/log.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/common/mongo_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/common/redis_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/common/retry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/common/wrapper_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/config/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/config/config.default.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/config/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/config/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/config/config_loader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/db/core_v1.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/deploy/smorf_linux/restart_sycm_job.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/deploy/smorf_linux/restart_sycm_schedule_job.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/deploy/smorf_linux/restart_taobao_detail_page_job.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/deploy/smorf_linux/restart_taobao_list_page_job.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/deploy/smorf_linux/stop_sycm_job.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/deploy/smorf_linux/stop_sycm_schedule_job.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/deploy/smorf_linux/stop_taobao_detail_page_job.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/deploy/smorf_linux/stop_taobao_list_page_job.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/deploy/smorf_linux/sycm_job.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/deploy/smorf_linux/sycm_schedule_job.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/deploy/smorf_linux/taobao_detail_page_job.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/deploy/smorf_linux/taobao_list_page_job.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/deploy/smorf_win/direct_sync_job.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/deploy/smorf_win/login_job.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/deploy/smorf_win/restart_sycm_job.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/deploy/smorf_win/restart_sycm_schedule_job.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/deploy/smorf_win/restart_taobao_detail_page_job.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/deploy/smorf_win/restart_taobao_list_page_job.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/deploy/smorf_win/stop_sycm_job.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/deploy/smorf_win/stop_sycm_schedule_job.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/deploy/smorf_win/stop_taobao_detail_page_job.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/deploy/smorf_win/stop_taobao_list_page_job.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/deploy/smorf_win/sycm_job.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/deploy/smorf_win/sycm_schedule_job.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/deploy/smorf_win/taobao_detail_page_job.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/deploy/smorf_win/taobao_list_page_job.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/environment/win/visualcppbuildtools_full.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/js/app_taobao_inject.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/js/channel_inject.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/js/qwebchannel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/js/sign.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/js/sign_12_29.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/js/sycm_inject.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/js/sycm_token.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/js/taobao_sign.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/common/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/common/constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/common/enums.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/dao/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/dao/abstract_dao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/dao/commodity_dao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/dao/stream_good_data_dao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/dao/stream_handle_task_dao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/dao/stream_opt_data_dao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/dao/stream_risk_dao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/dao/stream_unhandle_task_dao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/dao/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/dto/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/dto/pickle_cookie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/job/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/job/direct_sync_job.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/job/login_job.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/job/smorf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/job/sycm_job.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/job/sycm_schedule_job.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/job/taobao_detail_page_job.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/job/taobao_list_page_job.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/middlewares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/model/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/model/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/model/cmm_sys_commodity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/model/cmm_sys_stream_good_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/model/cmm_sys_stream_handle_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/model/cmm_sys_stream_opt_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/model/cmm_sys_stream_risk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/model/cmm_sys_stream_unhandle_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/pipelines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/action_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/context.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/cookie_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/counter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/default_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/detail_m_page_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/direct_proxy_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/executable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/executor_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/good_direct_persist_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/good_persist_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/http_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/pojo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/proxy_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/sign.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/sycm_category_job_init_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/sycm_home_htm_token_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/sycm_product_get_brands_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/sycm_product_prod_hot_rank_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/sycm_product_prod_hot_rank_persist_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/taobao_baichuan_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/taobao_detail_page_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/taobao_integrate_list_page_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/taobao_integrate_list_page_action_bak.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/taobao_list_page_persist_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/taobao_presearch_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/taobao_sale_list_page_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/taobao_sale_list_page_action_bak.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/task_collect_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/task_direct_collect_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/thread_sleep_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/actions/url_info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/chrome_qt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/spider_alimall.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/spiders/spider_qt5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/utils/date_util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/utils/fnvhash.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/utils/id_gen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/utils/money_util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/utils/parallel_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/utils/requests_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/mall_spider/utils/session_id_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/requirements-dev.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/scrapy.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/test/common/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/test/common/test_builtin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/test/common/test_cmdline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/test/common/test_db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/test/common/test_log.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/test/common/test_mongo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/test/common/test_redis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/test/common/test_util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/test/service/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/test/service/test_action_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/test/service/test_cookie_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/test/service/test_job.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/test/service/test_spider_qt5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/test/service/test_taobao_detail_page_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/test/service/test_taobao_integrate_list_page_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/test/service/test_taobao_presearch_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/taobao_spider/test/service/test_taobao_sale_list_page_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/weibo/data/weibo_fans_nickname_1000010.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/weibo/data/weibo_fans_nickname_1000011.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/weibo/data/weibo_fans_nickname_100008.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/weibo/data/weibo_fans_nickname_100009.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/weibo/weibo2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/weibo/weibo_web.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/weibo/weibopinglun.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/.idea/xiangmu.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/12日到18日.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Beijing/北京.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Fujian/南安.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Fujian/建阳.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Fujian/泉州.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Fujian/漳州.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Fujian/福安.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Fujian/龙岩.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Guangdong/debug.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Guangdong/广州.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Guangdong/惠州.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Guangdong/惠州2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Guangdong/汕头.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Guangdong/江门.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Guangdong/河源.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Guangdong/珠海.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Guangdong/珠海2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Guangdong/肇庆.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Guangxi/debug.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Guangxi/南宁.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Guangxi/桂林.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Guangxi/贵港.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Hebei/唐山.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Hebei/张家口.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Hebei/沧州.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Hebei/石家庄.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Hebei/邯郸.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Hebei/邯郸2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Heilongjiang/哈尔滨.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Henan/周口.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Henan/安阳.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Henan/开封.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Henan/新郑.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Henan/洛阳.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Henan/郑州.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Henan/驻马店.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Liaoning/沈阳.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Liaoning/营口.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Liaoning/鞍山.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Neimenggu/包头.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/ProxyPool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/.idea/shandong.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/debug.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/万达广场·欢乐小镇0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/中梁·国宾府0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/孟达·中央帝景0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/孟达·国际新城0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/民生凤凰城十一号院0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/民生凤凰城十一号院1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/民生凤凰城壹号院0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/民生凤凰城壹号院1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/民生凤凰城壹号院2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/民生绿城·百合新城0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/民生绿城·百合新城1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/民生绿城·百合新城2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/江北水镇0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/盛世天湖0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/盛世天湖1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/盛世天湖2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/碧桂园·翡丽湾0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/碧桂园·翡丽湾1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/碧桂园·翡丽湾2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/碧桂园·翡丽湾3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/荣盛·水岸花语二期0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/荣盛·锦绣观邸0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/荣盛·锦绣观邸1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/荣盛·锦绣观邸2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/荣盛·锦绣观邸3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/裕昌·九州国际0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/裕昌·文轩0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/裕昌·莲湖新城0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/裕昌·莲湖新城1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/裕昌·莲湖新城2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/金柱·月亮湾E区0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/金柱·月亮湾E区1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/金柱·水城悦府0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/金柱·绿洲0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/金柱·绿洲1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/金柱·绿洲2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/images/liaocheng/金柱·绿洲3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/临沂.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/威海.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/寿光.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/山东青州.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/枣庄.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/济南.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/济宁.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/淄博.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/烟台.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/聊城.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shandong/邢台.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Shanxi/晋中.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Sichuan/乐山.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Sichuan/泸州.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Tianjing/天津.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Tianjing/天津2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/Yunnan/昆明.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/common/get_ip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/common/mysql导出成excel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/common/spider_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/common/tran.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/common/update_mongo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/common/导出.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/conf/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/data/合肥.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/data/芜湖.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/ghostdriver.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/re.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/rizhi.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/s222.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/s3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/zhaopai.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/代理测试.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/卢建表.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/数据/北京.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/数据/处理数据.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/数据/郑州.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/数据/青岛.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/迁移到mysql/mongodb迁移到mysql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/迁移到mysql/修改xxx字段.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/迁移到mysql/卢数据库处理.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/迁移到mysql/导出excel文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/迁移到mysql/建表.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/迁移到mysql/数据库测试插入是否重复.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/迁移到mysql/查看城市库信息.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/xiangmu/迁移到mysql/青岛迁移到mysql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/京东/jingdong_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/天猫/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/天猫/data/2019-10-19-【安踏设计师】安踏官网外套男2019秋冬季新款梭织运动外套男风衣-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/天猫/data/2019-10-19-安踏风衣男2019秋冬季新款男装外套上衣休闲简约连帽夹克官网旗舰-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/天猫/data/2019-10-19-李宁男士风衣溯系列男士运动风衣时尚印花休闲外套梭织运动服男-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/天猫/data/2019-10-19-李宁风衣男士2019新款运动时尚系列开衫长袖立领外套春季休闲上衣-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/天猫/data/2019-10-19-花花公子男士风衣中长款韩版秋季2019新款加厚外套男秋冬帅气大衣-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/天猫/data2/2019-10-19-李宁男士风衣溯系列男士运动风衣时尚印花休闲外套梭织运动服男-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/天猫/data2/2019-10-19-李宁风衣男士2019新款运动时尚系列开衫长袖立领外套春季休闲上衣-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/天猫/data2/2019-10-20-2019秋冬新款女装纯色羊毛针织连衣裙长款高领毛衣裙长裙修身显瘦-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/天猫/data2/2019-10-20-Artka阿卡2019秋冬新复古长袖针织开衫中长款印花连衣裙两件套-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/天猫/data2/2019-10-20-【0-2点加赠】纪梵希小羊皮口红女半哑光唇膏306 新色333 正品-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/天猫/data2/2019-10-20-【安踏设计师】安踏官网外套男2019秋冬季新款梭织运动外套男风衣-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/天猫/data2/2019-10-20-【官方旗舰】奔富Bin2设拉子玛塔罗干红葡萄酒原瓶进口红酒整箱-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/天猫/data2/2019-10-20-【官方旗舰】奔富蔻兰山寇兰山设拉子赤霞珠干红葡萄酒进口红酒-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/天猫/data2/2019-10-20-【火爆预约】AUX奥克斯35BpR3Q2大1.5匹冷暖家用2级变频空调挂机-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/天猫/data2/2019-10-20-【祖儿同款】15mins15分钟2019夏新款条带凉鞋女仙女风UQB03BL9-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/天猫/data2/2019-10-20-丹慕妮尔连衣裙女2019年初秋装新款收腰显瘦OL气质流行一步裙子-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/天猫/data2/2019-10-20-双11预售-百丽老爹鞋女2019商场新款运动风厚底小白鞋T7M1DAM9-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/天猫/data2/2019-10-20-安踏风衣男2019秋冬季新款男装外套上衣休闲简约连帽夹克官网旗舰-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/天猫/data2/2019-10-20-李宁男士风衣溯系列男士运动风衣时尚印花休闲外套梭织运动服男-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/天猫/data2/2019-10-20-李宁风衣男士2019新款运动时尚系列开衫长袖立领外套春季休闲上衣-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/天猫/data2/2019-10-20-王小鸭2019秋装新款长袖大码修身喜庆婚礼妈妈装两件套装女连衣裙-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/天猫/data2/2019-10-20-花花公子男士风衣中长款韩版秋季2019新款加厚外套男秋冬帅气大衣-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/天猫/data2/2019-10-20-韩语琳空间2019秋季女装韩版高领修身中长款针织毛衣连衣裙打底裙-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/天猫/data2/2019-10-20-飞利浦手持挂烫机家用GC361蒸汽电熨斗小型熨烫机烫衣服迷你-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/天猫/data2/2019-10-20-飞利浦手持挂烫机家用蒸汽电熨斗小型便携式熨烫机衣服神器GC361-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/天猫/data2/2019-10-20-飞利浦挂烫机家用GC617手持挂式蒸汽小型熨斗烫衣服熨烫机大功率-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/天猫/tianmao_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/天猫/tianmao_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/天猫/tianmao_shop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/淘宝/taobao_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/淘宝/taobao_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/淘宝/taobao_login_cookies.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/规划公示信息/Thead.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/规划公示信息/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/规划公示信息/chongqing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/规划公示信息/hubei_huanggang.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/规划公示信息/sichuan_yibin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/规划公示信息/zhejiang_ningbo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/规划公示信息/zj_ningbo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/12306/12306.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/12306/stations_infos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/12306/trains_infos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/huicongwang/huicongwang/huicongwang/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/huicongwang/huicongwang/huicongwang/ghostdriver.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/huicongwang/huicongwang/huicongwang/items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/huicongwang/huicongwang/huicongwang/middlewares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/huicongwang/huicongwang/huicongwang/pipelines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/huicongwang/huicongwang/huicongwang/run_huicong.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/huicongwang/huicongwang/huicongwang/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/huicongwang/huicongwang/huicongwang/spiders/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/huicongwang/huicongwang/huicongwang/spiders/huicong.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/huicongwang/huicongwang/scrapy.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/single_projects/guangdong_foshan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/single_projects/linyiguihuaju.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/single_projects/mogujie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/single_projects/taobao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/single_projects/taobao_detailpage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/single_projects/zhejiang_ningbo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/single_projects/zhejiang_xuzhou.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/xiaoshuo/05小说爬虫/demo_汉天子.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/xiaoshuo/05小说爬虫/dhtz.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/xiaoshuo/05小说爬虫/htz.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/xiaoshuo/05小说爬虫/m.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/xiaoshuo/05小说爬虫/myjs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/xiaoshuo/05小说爬虫/myjszz.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/xiaoshuo/selenium233.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/xiaoshuo/xiaoshuo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/xiaoshuo/获取大部分文字.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/yiliaoqixie/tianchengyiliao/scrapy.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/yiliaoqixie/tianchengyiliao/tianchengyiliao/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/yiliaoqixie/tianchengyiliao/tianchengyiliao/items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/yiliaoqixie/tianchengyiliao/tianchengyiliao/middlewares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/yiliaoqixie/tianchengyiliao/tianchengyiliao/pipelines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/yiliaoqixie/tianchengyiliao/tianchengyiliao/run_tiancheng.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/yiliaoqixie/tianchengyiliao/tianchengyiliao/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/yiliaoqixie/tianchengyiliao/tianchengyiliao/spiders/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/yiliaoqixie/tianchengyiliao/tianchengyiliao/spiders/tiancheng.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/zhaobiaowang/zhaobiaowang/scrapy.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/zhaobiaowang/zhaobiaowang/zhaobiaowang/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/zhaobiaowang/zhaobiaowang/zhaobiaowang/items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/zhaobiaowang/zhaobiaowang/zhaobiaowang/middlewares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/zhaobiaowang/zhaobiaowang/zhaobiaowang/pipelines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/zhaobiaowang/zhaobiaowang/zhaobiaowang/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/zhaobiaowang/zhaobiaowang/zhaobiaowang/spiders/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/工商项目/企查查.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/工商项目/企查查详情.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/工商项目/天眼查.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/工商项目/天眼查子公司ajax.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/招标项目/demo1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/母婴项目/cookie登录哔哩哔哩.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/母婴项目/ghostdriver.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/母婴项目/weipinhuihtml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/母婴项目/唯品会.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/母婴项目/天猫.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/母婴项目/天猫详情.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/母婴项目/淘宝.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/母婴项目/爱淘宝.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/母婴项目/连衣裙.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/ciyun.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data/2019-10-12-westyeezy韦斯特椰子鞋350v2女满天星真爆天使美洲欧洲限定新款-淘宝.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data/2019-10-12-westyeezy韦斯特椰子鞋500高版本真皮网面厚底海盐网红老爹鞋女-淘宝.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data/2019-10-12-【69元断码清仓】运动鞋2019新款百搭休闲ins超火网红老爹鞋女潮-淘宝.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data/2019-10-12-夏季短袖T恤男士潮牌修身翻领2019新款纯棉潮流条纹保罗polo衫-淘宝.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data/2019-10-12-正品Supreme 18SS Tee联名小悟空吴亦凡同款男女情侣款T恤短袖-淘宝.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data/2019-10-12-百搭欧洲站2019秋新款厚底内增高小白单鞋运动休闲老爹鞋女ins潮-淘宝.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data/2019-10-12-老爹鞋子女2019新款秋季网红女鞋ins潮厚底松糕鞋百搭超火运动鞋-淘宝.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data/2019-10-12-长袖t恤男韩版秋季修身学生秋装男打底衫薄款上衣男衣服潮流-淘宝.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data/2019-10-13-AUX奥克斯 KFR-35GWBpR3QYQ2+2大1.5匹冷暖家用2级变频空调挂机-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data/2019-10-13-westyeezy韦斯特椰子鞋500高版本真皮网面厚底海盐网红老爹鞋女-淘宝.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data/2019-10-13-【官方旗舰】奔富Bin2设拉子玛塔罗干红葡萄酒原瓶进口红酒整箱-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data/2019-10-13-【官方旗舰】奔富蔻兰山寇兰山设拉子赤霞珠干红葡萄酒进口红酒-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data/2019-10-13-【祖儿同款】15mins15分钟2019夏新款条带凉鞋女仙女风UQB03BL9-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data/2019-10-13-【预售】百丽老爹鞋女2019新商场同款运动风厚底小白鞋T7M1DAM9-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data/2019-10-13-飞利浦手持挂烫机家用GC361蒸汽电熨斗小型熨烫机烫衣服迷你-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data/2019-10-13-飞利浦手持挂烫机家用蒸汽电熨斗小型便携式熨烫机衣服神器GC361-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data/2019-10-13-飞利浦挂烫机家用GC617手持挂式蒸汽小型熨斗烫衣服熨烫机大功率-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data/2019-10-14-飞利浦挂烫机家用GC617手持挂式蒸汽小型熨斗烫衣服熨烫机大功率-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data/2019-10-15-飞利浦挂烫机家用GC617手持挂式蒸汽小型熨斗烫衣服熨烫机大功率-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data/2019-10-16-飞利浦挂烫机家用GC617手持挂式蒸汽小型熨斗烫衣服熨烫机大功率-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data/2019-10-19-westyeezy韦斯特椰子鞋500高版本真皮网面厚底海盐网红老爹鞋女-淘宝.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data/2333.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data/FZYTK.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data/apple.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data/picture.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data/stopwords.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data_test/2019-10-17-【官方旗舰】奔富Bin2设拉子玛塔罗干红葡萄酒原瓶进口红酒整箱-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data_test/2019-10-17-【官方旗舰】奔富蔻兰山寇兰山设拉子赤霞珠干红葡萄酒进口红酒-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data_test/2019-10-17-【祖儿同款】15mins15分钟2019夏新款条带凉鞋女仙女风UQB03BL9-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data_test/2019-10-17-百丽老爹鞋女2019新商场同款运动风厚底小白鞋T7M1DAM9-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data_test/2019-10-17-飞利浦手持挂烫机家用GC361蒸汽电熨斗小型熨烫机烫衣服迷你-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data_test/2019-10-17-飞利浦手持挂烫机家用蒸汽电熨斗小型便携式熨烫机衣服神器GC361-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data_test/2019-10-17-飞利浦挂烫机家用GC617手持挂式蒸汽小型熨斗烫衣服熨烫机大功率-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data_test/2019-10-18-2019秋冬新款女装纯色羊毛针织连衣裙长款高领毛衣裙长裙修身显瘦-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data_test/2019-10-18-AUX奥克斯 KFR-35GWBpR3QYQ2+2大1.5匹冷暖家用2级变频空调挂机-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data_test/2019-10-18-Artka阿卡2019秋冬新复古长袖针织开衫中长款印花连衣裙两件套-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data_test/2019-10-18-MOCO秋冬新款高腰v领针织毛衣中长款连衣裙女MA173DRS303 摩安珂-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data_test/2019-10-18-【安踏设计师】安踏官网外套男2019秋冬季新款梭织运动外套男风衣-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data_test/2019-10-18-丹慕妮尔连衣裙女2019年初秋装新款收腰显瘦OL气质流行一步裙子-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data_test/2019-10-18-安踏风衣男2019秋冬季新款男装外套上衣休闲简约连帽夹克官网旗舰-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data_test/2019-10-18-李宁男士风衣溯系列男士运动风衣时尚印花休闲外套梭织运动服男-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data_test/2019-10-18-李宁风衣男士2019新款运动时尚系列开衫长袖立领外套春季休闲上衣-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data_test/2019-10-18-海青蓝2019新款女装气质裙子秋装修身显瘦法国小众复古中长连衣裙-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data_test/2019-10-18-王小鸭2019秋装新款长袖大码修身喜庆婚礼妈妈装两件套装女连衣裙-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data_test/2019-10-18-花花公子男士风衣中长款韩版秋季2019新款加厚外套男秋冬帅气大衣-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data_test/2019-10-18-韩语琳空间2019秋季女装韩版高领修身中长款针织毛衣连衣裙打底裙-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data_test/2019-10-19-飞利浦挂烫机家用GC617手持挂式蒸汽小型熨斗烫衣服熨烫机大功率-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data_test2/2019-10-19-westyeezy韦斯特椰子鞋500高版本真皮网面厚底海盐网红老爹鞋女-淘宝.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data_test2/2019-10-19-【官方旗舰】奔富Bin2设拉子玛塔罗干红葡萄酒原瓶进口红酒整箱-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data_test2/2019-10-19-【官方旗舰】奔富蔻兰山寇兰山设拉子赤霞珠干红葡萄酒进口红酒-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data_test2/2019-10-19-【祖儿同款】15mins15分钟2019夏新款条带凉鞋女仙女风UQB03BL9-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data_test2/2019-10-19-飞利浦手持挂烫机家用蒸汽电熨斗小型便携式熨烫机衣服神器GC361-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/data_test2/2019-10-19-飞利浦挂烫机家用GC617手持挂式蒸汽小型熨斗烫衣服熨烫机大功率-天猫.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/taobao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/tianmao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/长袖t.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/长袖t恤男韩版秋季修身学生秋装男打底衫薄款上衣男衣服潮流.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联蔚科技/飞利浦挂烫机家用GC617手持挂式蒸汽小型熨斗烫衣服熨烫机大功率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/weibo/weibo_spider1.0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/others/weibo/data/weibo_fans_nickname_1000011.txt" beforeDir="false" afterPath="$PROJECT_DIR$/others/weibo/data/weibo_fans_nickname_1000011.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/others/weibo/weibo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/others/weibo/weibo2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/others/weibo/weibo_web.py" beforeDir="false" afterPath="$PROJECT_DIR$/others/weibo/weibo_web.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/others/天猫/tianmao_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/others/天猫/tianmao_login.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -584,65 +16,82 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/others/demo/去除字符串的括号.py">
+        <entry file="file://$PROJECT_DIR$/others/weibo/weibo_web.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/others/demo/过滤字符串.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/others/demo/删除指定字符串.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/others/demo/selenium_ip.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-450" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/others/天猫/tianmao_shop.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-180">
+            <state relative-caret-position="405">
+              <caret line="30" column="57" selection-start-line="30" selection-start-column="57" selection-end-line="30" selection-end-column="57" />
               <folding>
-                <element signature="e#207#222#0" expanded="true" />
+                <element signature="e#122#137#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projects/工商项目/企查查.py">
+        <entry file="file://$PROJECT_DIR$/联蔚科技/taobao.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="1620">
+              <caret line="62" column="28" selection-start-line="62" selection-start-column="28" selection-end-line="62" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/others/WeiboSpider_SentimentAnalysis/EDA.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/others/weibo/weibo2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#129#144#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/others/天猫/tianmao_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7080">
+              <caret line="243" column="243" selection-start-line="243" selection-start-column="57" selection-end-line="243" selection-end-column="248" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/others/weibo/weibo_spider1.0.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="75" column="8" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/others/xiangmu/Hebei/张家口.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2483" />
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/others/demo/CookiePool.py">
+        <entry file="file://$PROJECT_DIR$/others/demo/读取数据库条数.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+            <state relative-caret-position="210">
+              <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/others/weibo/weibo_get_comment_id.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="101">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="e#140#155#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -652,9 +101,23 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>WB_text</find>
+      <find>7310299288</find>
+      <find>WB_feed WB_feed_v3 WB_feed_v4</find>
+      <find>feed_list_item</find>
+      <find>action-type=\&quot;feed_list_item</find>
+      <find>mid=\&quot;</find>
+      <find>\&quot;  class=\&quot;WB_cardwrap WB_feed_type S_bg2</find>
+      <find>diss-data=\&quot;\&quot;  mid=\&quot;</find>
+      <find>\&quot;  class=\&quot;WB</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -667,6 +130,12 @@
         <option value="$PROJECT_DIR$/others/删除指定字符串.py" />
         <option value="$PROJECT_DIR$/others/demo/cookie池.py" />
         <option value="$PROJECT_DIR$/others/demo/CookiePool.py" />
+        <option value="$PROJECT_DIR$/others/天猫/tianmao_login.py" />
+        <option value="$PROJECT_DIR$/others/weibo/weibo2.py" />
+        <option value="$PROJECT_DIR$/others/weibo/主页.html" />
+        <option value="$PROJECT_DIR$/others/weibo/weibo_get_comment_id.py" />
+        <option value="$PROJECT_DIR$/others/weibo/weibo_spider1.0.py" />
+        <option value="$PROJECT_DIR$/others/weibo/weibo_web.py" />
       </list>
     </option>
   </component>
@@ -681,6 +150,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -693,31 +163,44 @@
               <item name="lgd_spiders" type="462c0819:PsiDirectoryNode" />
               <item name="others" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="lgd_spiders" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lgd_spiders" type="462c0819:PsiDirectoryNode" />
+              <item name="others" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/others" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/others/demo" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\python\my_project\lgd_spiders\others" />
-      <recent name="D:\python\my_project\lgd_spiders" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\python\my_project\lgd_spiders\others" />
       <recent name="D:\python\my_project\lgd_spiders\others\demo" />
       <recent name="D:\python\my_project\lgd_spiders\others\天猫" />
       <recent name="D:\python\my_project\lgd_spiders\others\规划公示信息" />
+      <recent name="D:\python\my_project\lgd_spiders" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python\my_project\lgd_spiders\others\demo" />
+      <recent name="D:\python\my_project\lgd_spiders\others" />
       <recent name="D:\python\my_project\lgd_spiders" />
     </key>
   </component>
@@ -733,6 +216,104 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Python.weibo_get_comment_id">
+    <configuration name="tianmao_login" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lgd_spiders" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/others/天猫" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/others/天猫/tianmao_login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="weibo2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lgd_spiders" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/others/weibo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/others/weibo/weibo2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="weibo_get_comment_id" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lgd_spiders" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/others/weibo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/others/weibo/weibo_get_comment_id.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="weibo_web" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lgd_spiders" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/others/weibo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/others/weibo/weibo_web.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.weibo_get_comment_id" />
+        <item itemvalue="Python.weibo_web" />
+        <item itemvalue="Python.weibo2" />
+        <item itemvalue="Python.tianmao_login" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -743,53 +324,65 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571569969700</updated>
-      <workItem from="1571569971085" duration="2236000" />
+      <workItem from="1571569971085" duration="2967000" />
+      <workItem from="1571626625630" duration="25290000" />
+      <workItem from="1571667041956" duration="784000" />
     </task>
+    <task id="LOCAL-00001" summary="以前的爬虫代码">
+      <created>1571572566246</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571572566246</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2236000" />
+    <option name="totallyTimeSpent" value="29041000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22314675" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.049099836" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="以前的爬虫代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="以前的爬虫代码" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lgd_spiders$weibo_web.coverage" NAME="weibo_web Coverage Results" MODIFIED="1571641328018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others/weibo" />
+    <SUITE FILE_PATH="coverage/lgd_spiders$weibo_get_comment_id.coverage" NAME="weibo_get_comment_id Coverage Results" MODIFIED="1571654506108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others/weibo" />
+    <SUITE FILE_PATH="coverage/lgd_spiders$weibo2.coverage" NAME="weibo2 Coverage Results" MODIFIED="1571636115998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others/weibo" />
+    <SUITE FILE_PATH="coverage/lgd_spiders$tianmao_login.coverage" NAME="tianmao_login Coverage Results" MODIFIED="1571630093049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others/天猫" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/others/唯品会.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-143" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/others/comment.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18149" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/others/唯品会.py" />
+    <entry file="file://$PROJECT_DIR$/others/comment.txt" />
     <entry file="file://$PROJECT_DIR$/others/规划公示信息/Thead.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -802,62 +395,38 @@
         <state relative-caret-position="-270" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/others/demo02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1800" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/others/demo03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1800" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/others/demo04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1170" />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/others/demo02.py" />
+    <entry file="file://$PROJECT_DIR$/others/demo03.py" />
+    <entry file="file://$PROJECT_DIR$/others/demo04.py" />
+    <entry file="file://$PROJECT_DIR$/others/demo06.py" />
+    <entry file="file://$PROJECT_DIR$/others/requests_ip.py" />
+    <entry file="file://$PROJECT_DIR$/others/taobao_spider/db/core_v1.sql">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/others/demo/去除字符串的括号.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/others/demo06.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-90" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/others/demo/过滤字符串.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
+        <state relative-caret-position="1290">
           <caret line="43" selection-start-line="43" selection-end-line="43" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/others/requests_ip.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-383" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/others/demo/删除指定字符串.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/others/demo/selenium_ip.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-450" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/others/天猫/tianmao_shop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-180">
+        <state>
           <folding>
             <element signature="e#207#222#0" expanded="true" />
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/others/taobao_spider/db/core_v1.sql">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/projects/工商项目/企查查.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -872,7 +441,124 @@
     <entry file="file://$PROJECT_DIR$/others/demo/CookiePool.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
-          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python37/Lib/site-packages/selenium/webdriver/support/wait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-435">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/天猫/tianmao_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="31" />
+          <folding>
+            <element signature="e#113#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/weibo/data/weibo_id_肖战.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9053" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/weibo/主页.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="6488" column="13248" selection-start-line="6488" selection-start-column="13248" selection-end-line="6488" selection-end-column="13248" />
+          <folding>
+            <element signature="e#11112#11118#0" expanded="true" />
+            <element signature="e#11118#11124#0" expanded="true" />
+            <element signature="e#577524#577530#0" expanded="true" />
+            <element signature="e#577530#577536#0" expanded="true" />
+            <element signature="e#2990708#2990714#0" expanded="true" />
+            <element signature="e#2990714#2990720#0" expanded="true" />
+            <element signature="e#8778031#8778036#0" expanded="true" />
+            <element signature="e#8778107#8778112#0" expanded="true" />
+            <element signature="e#8778189#8778194#0" expanded="true" />
+            <element signature="e#8778259#8778264#0" expanded="true" />
+            <element signature="e#8778306#8778311#0" expanded="true" />
+            <element signature="e#8778364#8778369#0" expanded="true" />
+            <element signature="e#8778386#8778391#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/weibo/data/weibo_fans_nickname_1000011.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/weibo/data/weibo_id_肖战.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1124745">
+          <caret line="60615" column="10" selection-start-line="60615" selection-start-column="10" selection-end-line="60615" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/weibo/weibo_web.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="30" column="57" selection-start-line="30" selection-start-column="57" selection-end-line="30" selection-end-column="57" />
+          <folding>
+            <element signature="e#122#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/联蔚科技/taobao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="62" column="28" selection-start-line="62" selection-start-column="28" selection-end-line="62" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/weibo/weibo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#129#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/天猫/tianmao_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7080">
+          <caret line="243" column="243" selection-start-line="243" selection-start-column="57" selection-end-line="243" selection-end-column="248" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/weibo/weibo_get_comment_id.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#140#155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/weibo/weibo_spider1.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="75" column="8" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/xiangmu/Hebei/张家口.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2483" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/demo/读取数据库条数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
